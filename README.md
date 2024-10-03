@@ -1,7 +1,7 @@
+![image](bannieregit.jpg)
+
 # Samuel TITTELEIN
 *Bonjour, je suis Samuel Tittelein !*
-
-![image]()
 
 # Formations
 
